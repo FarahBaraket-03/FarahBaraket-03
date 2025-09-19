@@ -81,6 +81,39 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 </table>
 
 
+## 🚀 Road to Becoming an AI Engineer  
+
+I am actively also building my career as an **AI Engineer**, constantly learning and experimenting with cutting-edge tools and frameworks in the AI/ML ecosystem:  
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+        <img src="https://brandlogos.net/svg/n8n-icon-logo-svg-108816" width="48" height="48" alt="n8n" />
+      <br>n8n
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langgraph.png" width="48" height="48" alt="LangGraph" />
+      <br>LangGraph
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/crewai/crewai/main/docs/static/img/crewai-logo.png" width="48" height="48" alt="CrewAI" />
+      <br>CrewAI
+    </td>
+  </tr>
+</table>
+</div>
+
 <!--
 **FarahBaraket-03/FarahBaraket-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
