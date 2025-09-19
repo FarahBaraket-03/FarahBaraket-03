@@ -105,6 +105,14 @@ I am actively also building my career as an **AI Engineer**, constantly learning
       <br>LangChain
     </td>
     <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalUUzAvMYVyPabHqxbQwE2KsD29aaawp1Lw&s" width="50" height="50" alt="LangSimth" />
+      <br>LangSmith
+    </td>
+    <td align="center" width="96">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="50" height="50" alt="LangGraph" />
+      <br>LangGraph
+    </td>
+    <td align="center" width="96">
         <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="48" height="48" alt="CrewAI" />
       <br>CrewAI
     </td>
