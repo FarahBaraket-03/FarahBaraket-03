@@ -101,13 +101,11 @@ I am actively also building my career as an **AI Engineer**, constantly learning
       <br>n8n
     </td>
     <td align="center" width="96">
-        <img src="https://images.seeklogo.com/logo-png/61/1/langgraph-logo-png_seeklogo-616429.png" width="48" height="48" alt="LangGraph" />
-      <br>LangGraph
+        <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain" />
+      <br>LangChain
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/crewai/crewai/main/docs/static/img/crewai-logo.png" width="48" height="48" alt="CrewAI" />
+        <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="48" height="48" alt="CrewAI" />
       <br>CrewAI
     </td>
   </tr>
