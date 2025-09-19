@@ -113,7 +113,7 @@ I am actively also building my career as an **AI Engineer**, constantly learning
       <br>LangGraph
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="48" height="48" alt="CrewAI" />
+        <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="50" height="50" alt="CrewAI" />
       <br>CrewAI
     </td>
   </tr>
