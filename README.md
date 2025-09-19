@@ -105,7 +105,7 @@ I am actively also building my career as an **AI Engineer**, constantly learning
       <br>LangChain
     </td>
     <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalUUzAvMYVyPabHqxbQwE2KsD29aaawp1Lw&s" width="50" height="50" alt="LangSimth" />
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith-color.png" width="50" height="50" alt="LangSimth" />
       <br>LangSmith
     </td>
     <td align="center" width="96">
