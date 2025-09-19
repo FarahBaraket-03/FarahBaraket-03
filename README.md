@@ -16,7 +16,7 @@ I am 🧙 Software Engineering student .
 
 Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
 
----
+
 ## 💻My current technology stack :
 
 <div style="display: flex; align-items: flex-start; align: center">
