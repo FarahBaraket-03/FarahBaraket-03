@@ -97,11 +97,11 @@ I am actively also building my career as an **AI Engineer**, constantly learning
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="48" height="48" alt="n8n" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="50" height="50" alt="n8n" />
       <br>n8n
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/langchain" width="48" height="48" alt="LangChain" />
+        <img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain" />
       <br>LangChain
     </td>
     <td align="center" width="96">
