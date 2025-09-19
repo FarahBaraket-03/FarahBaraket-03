@@ -37,9 +37,10 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
+      <br>Vite
     </td>
+    
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -68,6 +69,10 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
       </td>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
