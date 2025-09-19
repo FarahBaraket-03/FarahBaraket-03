@@ -17,7 +17,7 @@ I am 🧙 Software Engineering student .
 Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
 
 ---
-#### 💻My current technology stack :
+## 💻My current technology stack :
 
 <!--
 **FarahBaraket-03/FarahBaraket-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
