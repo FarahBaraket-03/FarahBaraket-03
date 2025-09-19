@@ -17,7 +17,7 @@ I am 🧙 Software Engineering student .
 Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
 
 
-## 💻My current technology stack :
+## 💻 My current technology stack :
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -97,11 +97,11 @@ I am actively also building my career as an **AI Engineer**, constantly learning
       <br>TensorFlow
     </td>
     <td align="center" width="96">
-        <img src="https://brandlogos.net/svg/n8n-icon-logo-svg-108816" width="48" height="48" alt="n8n" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="48" height="48" alt="n8n" />
       <br>n8n
     </td>
     <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/main/docs/static/img/langgraph.png" width="48" height="48" alt="LangGraph" />
+        <img src="https://images.seeklogo.com/logo-png/61/1/langgraph-logo-png_seeklogo-616429.png" width="48" height="48" alt="LangGraph" />
       <br>LangGraph
     </td>
   </tr>
