@@ -1,139 +1,171 @@
+<div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Farah .
+# 👋 Hi, I'm Farah Baraket
 
-I am 🧙 Software Engineering student .
+### 🤖 AI & Software Engineering Student
 
-✨ Welcome to my page on my Github, you can find Projects created by me.
+### Building intelligent systems • AI Agents • Machine Learning • Full-Stack • DevOps
 
+<br>
 
-#### 📧 You can contact me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-baraket-4a4aa324b)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Exploring+Generative+AI+%26+AI+Agents;Building+Intelligent+Applications;Always+Learning+%E2%80%A2+Always+Building" />
 
-*I am open to new opportunities.*
-
-
-🔭 In my view, the best approach is to pick the tech that's just right for the problem.
-
-Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
-
-
-## 💻 My current technology stack :
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" alt="icon" width="65" height="65" />
-      <br>Vite
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
-</table>
-
-
-## 🚀 Road to Becoming an AI Engineer  
-
-I am actively also building my career as an **AI Engineer**, constantly learning and experimenting with cutting-edge tools and frameworks in the AI/ML ecosystem:  
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="50" height="50" alt="n8n" />
-      <br>n8n
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/langchain" width="50" height="50" alt="LangChain" />
-      <br>LangChain
-    </td>
-    <td align="center" width="96">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith-color.png" width="50" height="50" alt="LangSimth" />
-      <br>LangSmith
-    </td>
-    <td align="center" width="96">
-        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="50" height="50" alt="LangGraph" />
-      <br>LangGraph
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="50" height="50" alt="CrewAI" />
-      <br>CrewAI
-    </td>
-  </tr>
-</table>
 </div>
 
-<!--
-**FarahBaraket-03/FarahBaraket-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Farah Baraket**, a Software Engineering student with a strong interest in **Artificial Intelligence, Machine Learning, Generative AI, and intelligent software systems**.
+
+My goal is to grow toward becoming an **AI Engineer**, while maintaining a solid foundation in software engineering, full-stack development, databases, DevOps, and cloud technologies.
+
+I enjoy understanding real-world problems and exploring how technologies such as **Machine Learning, Large Language Models, AI Agents, automation, and modern software architectures** can be used to solve them.
+
+> 💡 **My philosophy:** Choose the technology that best solves the problem — not simply the technology that is trending.
+
+---
+
+# 🤖 AI & Machine Learning
+
+Artificial Intelligence is currently the main direction I am developing.
+
+I'm learning and experimenting with:
+
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 💬 Large Language Models
+- ✨ Generative AI
+- 🤖 AI Agents
+- 🔗 LLM orchestration
+- 🧩 Multi-agent systems
+- 📚 Natural Language Processing
+- 📊 Data preprocessing & analysis
+- ⚙️ AI workflow automation
+- 🔍 AI observability and evaluation
+
+---
+
+## 🧠 AI Technologies
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+<br><b>Python</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
+<br><b>PyTorch</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+<br><b>TensorFlow</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/langchain" width="55"/>
+<br><b>LangChain</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="55"/>
+<br><b>LangGraph</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="110">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langsmith-color.png" width="55"/>
+<br><b>LangSmith</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="55"/>
+<br><b>CrewAI</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="55"/>
+<br><b>n8n</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=jupyter" width="55"/>
+<br><b>Jupyter</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
+<br><b>Scikit-learn</b>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💻 Software Engineering
+
+AI systems still require strong software engineering.
+
+That's why I continue developing skills in:
+
+- Frontend Development
+- Backend Development
+- API Design
+- Databases
+- Software Architecture
+- Testing
+- Version Control
+- CI/CD
+- Containerization
+- Monitoring
+
+---
+
+# 🚀 My AI Engineering Journey
+
+My current roadmap focuses on building the skills required for modern AI engineering.
+
+```text
+                         AI ENGINEERING
+                              │
+        ┌─────────────────────┼──────────────────────┐
+        │                     │                      │
+ Machine Learning       Generative AI          AI Engineering
+        │                     │                      │
+        ├─ Python             ├─ LLMs                ├─ APIs
+        ├─ Data               ├─ Prompting           ├─ Backend
+        ├─ Scikit-learn       ├─ LangChain           ├─ Databases
+        ├─ PyTorch            ├─ LangGraph           ├─ Docker
+        └─ TensorFlow         ├─ CrewAI              ├─ CI/CD
+                              └─ AI Agents            └─ Cloud
 
 
 
+```
+
+---
+# 🛠️ Tools & Technologies
+
+<p align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,spring,nodejs,express,angular,react,ts,js,html,css,mysql,postgres,mongodb,docker,jenkins,terraform,git,github,gitlab,linux,vscode" /></p>
+
+<br>
+
+<div align="center">
+
+### 🤝 I'm open to
+
+**AI Projects • Software Engineering Projects • Internships • Collaborations • Research Opportunities**
+
+</div>
